@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# testing
+coverage
+.nyc_output
+
+# production
+dist
+dist-ssr
+build
+
+# debug logs
+logs
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# package files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
