@@ -22,4 +22,4 @@ spec:
   type: website
   lifecycle: production
   owner: marketing-team
-  system: marketing
+  system: marketing-system
