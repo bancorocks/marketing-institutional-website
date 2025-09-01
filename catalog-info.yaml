@@ -16,4 +16,4 @@ spec:
   type: website
   lifecycle: production
   owner: marketing-team
-  system: marketing-system
+  system: marketing-institutional-system
