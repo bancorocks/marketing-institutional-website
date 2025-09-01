@@ -1,19 +1,13 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: banco-rocks-website
-  title: Banco Rocks Site
+  name: marketing-institutional-website
+  title: Banco Rocks Institutional Site
   description: >
-    Minimal marketing website for Banco Rocks.
+    Institutional website for Banco Rocks.
   annotations:
-    github.com/project-slug: bancorocks/rocks.website
-    backstage.io/source-location: url:https://github.com/bancorocks/rocks.website
-    backstage.io/techdocs-ref: dir:.
-    backstage.io/ci: github-actions
-    backstage.io/run: pnpm install && pnpm dev
-    backstage.io/build: pnpm build
-    backstage.io/lint: pnpm lint && pnpm prettier --check .
-    backstage.io/release: pnpm release
+    github.com/project-slug: bancorocks/marketing-institutional-website
+    backstage.io/source-location: url:https://github.com/bancorocks/marketing-institutional-website
   tags:
     - vite
     - react
